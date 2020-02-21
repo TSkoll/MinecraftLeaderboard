@@ -25,7 +25,7 @@ export default function SubCategory() {
                 </span>
             </li>
         );
-    })
+    });
 
     return (
         <Router>

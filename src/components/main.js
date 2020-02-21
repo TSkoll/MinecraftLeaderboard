@@ -23,5 +23,5 @@ export default function Main() {
                 </Switch>
             </Router>
         </div>
-    )
+    );
 }
