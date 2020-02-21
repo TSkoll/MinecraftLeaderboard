@@ -1,0 +1,48 @@
+body {
+    margin: 0px 10px;
+    padding: 0;
+
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.Container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+
+    padding: 0;
+    margin-left: 10px;
+}
+
+li {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 4px;
+}
+
+.MainNav, .SubNav {
+    flex: 0 1;
+}
+
+.Leaderboard {
+    flex: 1 0;
+}
+
+a {
+    margin-left: 2px;
+
+    line-height: 16px;
+    text-decoration: none;
+}
+
+li span {
+    display: flex;
+}
+
+img {
+    display: block;
+}

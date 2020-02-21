@@ -1,5 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# copyright
+# Contains minecraft block/item pngs
+# Minecraft copyright leaves it unknown if the textures are allowed to be uploaded to an open source repository
+# better play it safe.
+/src/img
+
+# privacy
+# Contains all of the data, includes information like mapping from user UUID to name
+/src/data/minecraftstats
+
 # dependencies
 /node_modules
 /.pnp
