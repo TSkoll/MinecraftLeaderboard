@@ -1,5 +1,7 @@
 # Minecraft Leaderboard
 
+![](https://i.imgur.com/RIeHKAD.png)
+
 This repository contains the react-frontend part of a statistic site run on a private Minecraft server. The site allows browsing different statistics, like the amount of each blocks that the users have broken, what they've used and how much, time they've spent on the server etc. The site also ranks players on these categories.
 
 This repository does not contain the data used on the actual website (that's redacted from this readme for a reason) nor does it contain the vanilla minecraft textures used on the site.
